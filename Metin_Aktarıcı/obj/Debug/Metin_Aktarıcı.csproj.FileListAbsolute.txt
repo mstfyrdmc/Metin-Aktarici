@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\bin\Debug\Metin_Aktarıcı.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\bin\Debug\Metin_Aktarıcı.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\bin\Debug\Metin_Aktarıcı.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Metin_Aktarıcı\Metin_Aktarıcı\obj\Debug\Metin_Aktarıcı.pdb
